@@ -1,7 +1,7 @@
 # 🎬 Netflix Exploratory Data Analysis (EDA)
 
 ## 📌 Project Overview
-A brief summary of what your project does and why you built it.
+This project performs Exploratory Data Analysis (EDA) on the Netflix Titles dataset using Python. It aims to uncover trends in content type, genres, countries, release years, ratings, and other key attributes through data cleaning, analysis, and visualizations. The project was built as part of the CodeAlpha Data Analytics Internship to strengthen practical data analysis and visualization skills.
 
 ## 📁 Project Structure
 - `dataset/`: Contains raw data files.
