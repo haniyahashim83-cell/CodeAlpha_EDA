@@ -15,6 +15,14 @@ This project performs Exploratory Data Analysis (EDA) on the Netflix Titles data
 ## 🖼️ Visualizations
 ![Movies vs TV Shows](images/movies_vs_tvshows.png)
 
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- 
 ## 🛠️ How to Run
 1. Install requirements: `pip install pandas matplotlib seaborn`
 2. Open `notebook/Netflix_EDA.ipynb` in VS Code or Jupyter.
