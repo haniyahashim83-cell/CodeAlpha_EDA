@@ -29,7 +29,7 @@ This project performs Exploratory Data Analysis (EDA) on the Netflix Titles data
 2. Install the required libraries:
 
 ```bash
-pip install pandas numpy matplotlib seaborn```
+pip install pandas numpy matplotlib seaborn
 3. Open notebook/Netflix_EDA.ipynb in Jupyter Notebook or VS Code.
 4. Run all cells to reproduce the analysis and visualizations.
 
